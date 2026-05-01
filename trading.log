@@ -1,0 +1,6 @@
+2026-05-01 17:16:23,254 - TradingBot - INFO - Binance Testnet Client Initialized
+2026-05-01 17:16:23,255 - TradingBot - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-05-01 17:16:23,561 - TradingBot - INFO - Order Success: 13096362199 | Status: NEW
+2026-05-01 17:17:22,648 - TradingBot - INFO - Binance Testnet Client Initialized
+2026-05-01 17:17:22,651 - TradingBot - INFO - Sending Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.001, 'price': '60000.0', 'timeInForce': 'GTC'}
+2026-05-01 17:17:22,955 - TradingBot - INFO - Order Success: 13096364221 | Status: NEW
